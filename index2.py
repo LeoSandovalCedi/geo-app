@@ -101,6 +101,13 @@ fuente3 = pygame.font.SysFont("sitka text",30)
 fuente4 = pygame.font.SysFont("sitka text",14)
 
 textogastronomia="Quintana Roo cuenta con mucha variedad de platillos. \nLa mayoría son de pescado como el Pescado a la \nTikin Xic de Isla Mujeres que tiene achiote, naranja \nagria y pimientas para condimentar. Pero también \ncuenta con  varias pimientas. Pero Quintana Roo no solo tiene \nmariscos, también tiene comidas con otras carnes \ncomo el Makum de Repollo, hecho con lomo de cerdo \nmarinado en escabeche de jugo de naranja, Además condimentada \ncon orégano, pimienta y comino. Pero Quintana Roo tampoco \nse queda atrás en bebidas, contando con “Ojo Rojo”, \nuna bebida que mezcla licores como la cerveza y el clamato, \ncondimentos naturales como el apio y salsa Maggie."
+textotraje="En la vestimenta de hombres y mujeres en el estado de Quintana Roo \nhay mucha variedad de vestimenta en mujeres. El traje típico de \nhombre en Quintana Roo, consiste en un pantalón azul marino, una \ncamisa de flores colorida, un paliacate en el cuello y un sombrero de \npalma. Y El vestido tipico de Quintana Roo consiste en una falda que \nllega hasta poco antes de los tobillos de color rojo, en donde destacan 3 \nsímbolos: caracoles, tres pinos y estrellas. Los caracoles significan la \nriqueza marina y oceánica y representan el primer instrumento de \ncomunicación entre los mayas. Los pinos demuestran la riqueza \nforestal, la energía y la creatividad, y las estrellas muestran la luz de la \nmañana o el paso del planeta Venus. Ademas de la falda, las \nquintanarroenses llevan una blusa de color blanco con detalles rojos."
+textoorografia="-Cerro el Charro: Es el punto más alto de Quintana Roo ya que \nsu superficie es casi completamente plana. Su altura es de 230 \nmsnm (metros por el nivel del mar). \n-Cerro Nuevo Bécar: Este está ubicado cerca de la \ncomunidad de Nuevo Bécar y tiene una altura de 180 msnm. \n-Cerro El Pavo: Cerro El Pavo está situado al noreste de \nEl Corozal y tiene una altura de 120 msnm. \n-Cerro El Gavilán: Es el segundo cerro más alto de Quintana \nRoo con una altitud de 210 msnm. \n-Colina X-Noh Cruz: Esta colina con un nombre extraño\n es caracterizada porque en la cima hay muchas cruces. \nEsta colina está a 92 msnm. "
+textohidrografia="Laguna Mosquitero:  Es una laguna que está al oeste de Tantamán. \nEsta laguna está aproximadamente un metro sobre \nel nivel del mar. \nRio Chile Verde: Es un río que tiene mucho manglar \nque es ideal para practicar natación. Este río está a \n14 metros sobre el nivel del mar. \nLaguna La Virtud:  Laguna La Virtud es un lago en Quintana Roo \ny tiene una altitud de 6 metros sobre el nivel del mar."
+textoclima="En el 99$% de la superficie de Quintana Roo predomina un \nclima cálido subhúmedo, el cual favorece al cultivo de caña de \nazúcar, chile jalapeño, maíz, arroz, hortalizas y frutales como \nchicozapote, naranja, toronja, papaya, limón agrio, mango y piña \nentre otras, y en el 1% restante, ubicado en la isla de Cozumel, \nun clima cálido húmedo. La temperatura promedio anual del estado \nde Quintana Roo es de 26°C, el promedio de la temperatura mínima \nes de 17°C y el promedio de la temperatura máxima es de 33°C."
+textoflora="La flora varía en todo el estado de Quintana Roo debido \na su clima y aquí están algunas de la vegetación más \ndestacada de Quintana Roo: \nMangle: arbusto de gran tamaño y generalmente miden entre 3 a\n 5 metros de altura. Crecen en aguas y suelos salados y \nel conjunto de estos arbustos forman formaciones llamadas manglares. \nCedro: es un árbol muy común en las regiones tropicales de \nAmérica. Estos son árboles altos y pueden llegar a medir 20 \nmetros de altura. Cuando el árbol está maduro, \nproduce muchas flores y frutos. \nCeiba o Pochote: es común en zonas tropicales y estos son más \naltos que los Cedros. Incluso pueden llegar a medir entre 60 y \n70 metros de altura. La madera de este árbol es muy usada para la \ncarpintería. \nPalo de tinte: es un árbol típico de México, que como su \nnombre lo dice, es usado para crear tintes. Este árbol tiene un \ntamaño mediano y produce frutos cuando ya ha crecido lo necesario. \nSus flores también sirven como medicina natural. \nAchiote: es una planta tropical que su fruto sirve para \nhacer colorantes y condimentos. El arbusto donde crece mide \naproximadamente de 4 a 6 metros de altura. Esta planta \ntiene muchos usos medicinales."
+textofauna="-En  Quintana Roo hay diversidad de hábitats lo que hace que \nsu fauna sea rica y variada: \n-Es típico encontrar animales como el\n jaguarundi en las selvas húmedas de Quintana Roo, que es un \nfelino en peligro de extinción de tamaño mediano, con cabeza \npequeña y plana de cuerpo alargado, orejas redondas y cola larga. \n-Se puede encontrar al faisán negro en los bosques de Qintana Roo, \nanimal característico por su plumaje negro generalizado con tonos \nverdosos y vientre blanco, tiene un copete eréctil de plumas rizadas, \nposee una protuberancia amarilla en la mandibula superior. \n-Las  lechuzas de Quintana Roo habitan en los mezquites y matorrales \ncosteros, son aves rapaces, carnívoras y nocturnas. Son capaces \nde capturar a sus presas guiadas por el sonido. Se caracterizan por \ntener la forma de un disco sobre la cara. \n-Los sapos excavadores suelen encontrarse en los cenotes y ser \nde tamaño mediano, su cuerpo es globoso y flácido con una piel suave. \nSu hocico está cubierto con tubérculos sensoriales y ojos muy \npequeños. \n-El cangrejo ermitaño tiene un abdomen sin \nexoesqueleto por lo cual busca conchas vacías de otros moluscos \npara refugiarse, es decápodo, tiene dos antenas largas  y dos antenas \ncortas con la función de olfato y gusto. Sus ojos pueden descomponer \nlas imágenes en varias piezas."
+textoareasprotegidas="-SAN GERVASIO\n-Esta zona arqueológica existe desde épocas prehispánicas, \nes decir, antes de que los españoles colonizaran México. Está \nlocalizado en un rancho de ganado. Su dueño es un santo, y su \nrancho recibió su nombre en el siglo XX."
 
 def dibujar_boton(screen,boton,palabra,colordetexto,colordecuadrado,fuentedetexto):
     if boton.collidepoint(pygame.mouse.get_pos()):
@@ -375,35 +382,34 @@ while True:
         dibujar_boton(screen,leyendas,"Leyendas",BLACK,GREEN,fuente1)
     if pantallaorografia == True:
         dibujar_boton(screen,regresar,"<-",BLACK,GREEN,fuente3)
-        screen.blit(imagen1,(100,100))
-        screen.blit(imagen2,(650,100))
+        screen.blit(imagen1,(650,400))
+        render_multi_line(textoorografia,150,50,30)
         dibujar_boton(screen,regresar,"<-",BLACK,GREEN,fuente3)
     if pantallahidrografia == True:
         dibujar_boton(screen,regresar,"<-",BLACK,GREEN,fuente3)
-        screen.blit(imagen3,(100,100))
-        screen.blit(imagen4,(650,100))
+        screen.blit(imagen3,(650,400))
+        render_multi_line(textohidrografia,150,50,30)
         dibujar_boton(screen,regresar,"<-",BLACK,GREEN,fuente3)
     if pantallaclima == True:
         dibujar_boton(screen,regresar,"<-",BLACK,GREEN,fuente3)
-        screen.blit(imagen5,(200,100))
+        screen.blit(imagen4,(650,400))
+        render_multi_line(textoclima,150,50,30)
         dibujar_boton(screen,regresar,"<-",BLACK,GREEN,fuente3)
     if pantallaflora == True:
         dibujar_boton(screen,regresar,"<-",BLACK,GREEN,fuente3)
-        screen.blit(imagen6,(200,1))
-        screen.blit(imagen8,(200,300))
-        screen.blit(imagen7,(650,100))
+        screen.blit(imagen5,(1050,600))
+        render_multi_line(textoflora,150,50,30)
         dibujar_boton(screen,regresar,"<-",BLACK,GREEN,fuente3)
 
     if pantallafauna == True:
         dibujar_boton(screen,regresar,"<-",BLACK,GREEN,fuente3)
-        screen.blit(imagen9,(200,100))
-        screen.blit(imagen10,(650,1))
-        screen.blit(imagen11,(650,300))
+        screen.blit(imagen5,(1050,600))
+        render_multi_line(textofauna,150,50,30)
         dibujar_boton(screen,regresar,"<-",BLACK,GREEN,fuente3)
     if pantallaareasprotegidas == True:
         dibujar_boton(screen,regresar,"<-",BLACK,GREEN,fuente3)
-        screen.blit(imagen12,(100,100))
-        screen.blit(imagen13,(650,100))
+        screen.blit(imagen6,(650,400))
+        render_multi_line(textoareasprotegidas,150,50,30)
         dibujar_boton(screen,regresar,"<-",BLACK,GREEN,fuente3)
     if pantallacapital == True:
         dibujar_boton(screen,regresar,"<-",BLACK,GREEN,fuente3)
@@ -477,7 +483,8 @@ while True:
         dibujar_boton(screen,regresar,"<-",BLACK,GREEN,fuente3)
     if pantallatraje == True:
         dibujar_boton(screen,regresar,"<-",BLACK,GREEN,fuente3)
-        screen.blit(imagen32,(100,150))
+        screen.blit(imagen32,(650,400))
+        render_multi_line(textotraje,150,50,30)
         dibujar_boton(screen,regresar,"<-",BLACK,GREEN,fuente3)
     if pantallapersonajes == True:
         dibujar_boton(screen,regresar,"<-",BLACK,GREEN,fuente3)
