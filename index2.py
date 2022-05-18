@@ -417,7 +417,6 @@ while True:
         dibujar_boton(screen,regresar,"<-",BLACK,GREEN,fuente3)
     if pantallacolindancias == True:
         dibujar_boton(screen,regresar,"<-",BLACK,GREEN,fuente3)
-        
         screen.blit(imagen15,(100,100))
         dibujar_boton(screen,regresar,"<-",BLACK,GREEN,fuente3)
     if pantallamunicipios == True:
